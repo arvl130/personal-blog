@@ -8,7 +8,7 @@ useHead({
 <template>
   <section class="text-zinc-700">
     <h2 class="text-2xl font-semibold text-zinc-900 mb-6">connect with me</h2>
-    <p class="mb-3">You can contact me through my various social media:</p>
+    <p class="mb-3">You can contact me through any of my social media:</p>
     <ul class="mb-3">
       <li class="mb-1">
         <a
