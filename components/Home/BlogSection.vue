@@ -22,6 +22,8 @@
         <p>June 1, 2023</p>
       </NuxtLink>
     </div>
-    <p class="text-justify">Subscribe to my newsletter for more updates.</p>
+    <p class="text-justify">
+      Subscribe to my newsletter to receive updates when I post.
+    </p>
   </section>
 </template>
