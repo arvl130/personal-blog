@@ -88,7 +88,7 @@ const route = useRoute()
       <slot />
     </main>
     <footer
-      class="font-sans w-full max-w-xl mx-auto text-sm flex justify-center pb-3 items-end font-semibold px-3"
+      class="text-zinc-900 font-sans w-full max-w-xl mx-auto text-sm flex justify-center pb-3 items-end font-semibold px-3"
     >
       Angelo Geulin &copy; 2023
     </footer>
