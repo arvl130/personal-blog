@@ -3,6 +3,7 @@ import filipinoDeCuisineLogo from "@/assets/img/logo/filipinodecuisine.png"
 import lfiDentalClinicLogo from "@/assets/img/logo/lfidentalclinic.png"
 import findJobDescriptionsLogo from "@/assets/img/logo/find-job-desc.png"
 import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
+import { MoveUpRight } from "lucide-vue-next"
 
 useHead({
   title: "Projects \u2013 Angelo Geulin",
@@ -64,5 +65,14 @@ useHead({
         <p>Linux distribution port</p>
       </div>
     </NuxtLink>
+    <div class="text-center pt-6">
+      <a
+        target="_blank"
+        href="https://github.com/arvl130"
+        class="inline-flex items-center gap-1 text-zinc-600 hover:text-zinc-900 transition duration-200"
+        >See the full list on GitHub
+        <MoveUpRight :size="18" />
+      </a>
+    </div>
   </section>
 </template>
