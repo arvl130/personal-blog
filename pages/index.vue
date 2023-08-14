@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: "Home \u2013 Angelo Geulin",
+  title: "Angelo Geulin",
 })
 </script>
 
