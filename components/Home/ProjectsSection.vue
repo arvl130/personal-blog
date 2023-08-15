@@ -1,10 +1,3 @@
-<script setup>
-import lfiDentalClinicLogo from "@/assets/img/logo/lfidentalclinic.png"
-import filipinoDeCuisineLogo from "@/assets/img/logo/filipinodecuisine.png"
-import findJobDescriptionsLogo from "@/assets/img/logo/find-job-desc.png"
-import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
-</script>
-
 <template>
   <section class="text-zinc-700 mb-8">
     <p class="mb-3 text-justify">
@@ -17,10 +10,13 @@ import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
-          <img
-            :src="lfiDentalClinicLogo"
+          <NuxtImg
+            src="/assets/img/logo/lfidentalclinic.png"
             alt="Logo for LFI Dental Clinic"
             class="w-full aspect-square"
+            format="webp"
+            :height="150"
+            :width="150"
           />
         </div>
         <div>
@@ -33,10 +29,13 @@ import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
-          <img
-            :src="filipinoDeCuisineLogo"
+          <NuxtImg
+            src="/assets/img/logo/filipinodecuisine.png"
             alt="Logo for Filipino de Cuisine"
             class="w-full aspect-square"
+            format="webp"
+            :height="150"
+            :width="150"
           />
         </div>
         <div>
@@ -49,10 +48,13 @@ import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
-          <img
-            :src="findJobDescriptionsLogo"
+          <NuxtImg
+            src="/assets/img/logo/find-job-desc.png"
             alt="Logo for Find Job Descriptions"
             class="w-full aspect-square"
+            format="webp"
+            :height="150"
+            :width="150"
           />
         </div>
         <div>
@@ -65,8 +67,8 @@ import kissLinuxLogo from "@/assets/img/logo/kiss32linux.png"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
-          <img
-            :src="kissLinuxLogo"
+          <NuxtImg
+            src="/assets/img/logo/kiss32linux.png"
             alt="Logo for KISS Linux"
             class="w-full aspect-square"
           />
