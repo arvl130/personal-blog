@@ -52,7 +52,10 @@ useHead({
             target="_blank"
             class="hover:text-zinc-900 transition duration-200 flex items-center gap-2"
           >
-            <MoveUpRight :size="18" />
+            <MoveUpRight
+              :size="18"
+              aria-label="Arrow pointing upper right icon"
+            />
             <span>Browse code</span>
           </a>
         </li>
@@ -62,7 +65,10 @@ useHead({
             target="_blank"
             class="hover:text-zinc-900 transition duration-200 flex items-center gap-2"
           >
-            <MoveUpRight :size="18" />
+            <MoveUpRight
+              :size="18"
+              aria-label="Arrow pointing upper right icon"
+            />
             <span>View demo</span>
           </a>
         </li>

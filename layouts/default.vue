@@ -68,8 +68,9 @@ const route = useRoute()
               href="https://twitter.com/angelogeulin"
               class="hover:text-zinc-900 transition duration-200"
               target="_blank"
+              aria-label="Twitter contact link"
             >
-              <Twitter :stroke-width="1.5" />
+              <Twitter :stroke-width="1.5" aria-label="Twitter logo" />
             </a>
           </li>
           <li>
@@ -77,8 +78,9 @@ const route = useRoute()
               href="https://github.com/arvl130"
               class="hover:text-zinc-900 transition duration-200"
               target="_blank"
+              aria-label="GitHub profile link"
             >
-              <Github :stroke-width="1.5" />
+              <Github :stroke-width="1.5" aria-label="GitHub logo" />
             </a>
           </li>
         </ul>
