@@ -72,7 +72,7 @@ useHead({
         aria-label="Arrow pointing upper right icon"
         class="inline-flex items-center gap-1 text-zinc-600 hover:text-zinc-900 transition duration-200"
         >See the full list on GitHub
-        <MoveUpRight :size="18" />
+        <MoveUpRight :size="18" aria-label="Arrow pointing upper right icon" />
       </a>
     </div>
   </section>
