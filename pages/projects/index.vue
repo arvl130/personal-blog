@@ -23,7 +23,7 @@ useHead({
       </div>
       <div>
         <h3 class="font-semibold">Filipino de Cuisine</h3>
-        <p>E-commerce website</p>
+        <p class="text-zinc-500">E-commerce website</p>
       </div>
     </NuxtLink>
     <NuxtLink
@@ -35,7 +35,7 @@ useHead({
       </div>
       <div>
         <h3 class="font-semibold">LFI Dental Clinic</h3>
-        <p>Clinic management system</p>
+        <p class="text-zinc-500">Clinic management system</p>
       </div>
     </NuxtLink>
     <NuxtLink
@@ -50,7 +50,7 @@ useHead({
       </div>
       <div>
         <h3 class="font-semibold">Find Job Descriptions</h3>
-        <p>RESTful web service</p>
+        <p class="text-zinc-500">RESTful web service</p>
       </div>
     </NuxtLink>
     <NuxtLink
@@ -62,7 +62,7 @@ useHead({
       </div>
       <div>
         <h3 class="font-semibold">KISS32 Linux CDV</h3>
-        <p>Linux distribution port</p>
+        <p class="text-zinc-500">Linux distribution port</p>
       </div>
     </NuxtLink>
     <div class="text-center pt-6">
