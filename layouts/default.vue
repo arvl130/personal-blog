@@ -1,5 +1,5 @@
 <script setup>
-import { Github, Twitter, Linkedin } from "lucide-vue-next"
+import { Github, Twitter } from "lucide-vue-next"
 
 const route = useRoute()
 </script>
@@ -7,6 +7,7 @@ const route = useRoute()
 <template>
   <div class="min-h-screen grid grid-rows-[8rem_1fr_6rem]">
     <header class="font-sans w-full max-w-xl mx-auto flex items-center px-3">
+      <h1 class="sr-only">Angelo Geulin</h1>
       <nav class="w-full flex justify-between items-center">
         <ul class="flex gap-3">
           <li>
