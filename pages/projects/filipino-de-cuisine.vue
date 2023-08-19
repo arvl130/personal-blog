@@ -23,7 +23,7 @@ useHead({
       />
     </section>
     <section>
-      <p class="mb-3 text-justify">
+      <p class="mb-4 text-justify">
         This is the website for the restaurant management system of Filipino de
         Cuisine—an imaginary Filipino restaurant. Check out
         <a
@@ -41,7 +41,7 @@ useHead({
         >.
       </p>
       <p class="font-semibold text-lg mb-1">Key features</p>
-      <ul class="mb-3 pl-6 list-disc">
+      <ul class="mb-4 pl-6 list-disc">
         <li>Responsive frontend design</li>
         <li>Streamlined ordering and delivery monitoring</li>
         <li>Efficient reservation scheduling and management</li>
@@ -49,7 +49,7 @@ useHead({
         <li>Sign in with Email, Google, and Facebook</li>
       </ul>
       <p class="font-semibold text-lg mb-1">Links</p>
-      <ul class="mb-3 pl-2">
+      <ul class="pl-2">
         <li>
           <a
             href="https://github.com/arvl130/filipino-de-cuisine"

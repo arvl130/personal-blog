@@ -23,18 +23,18 @@ useHead({
       />
     </section>
     <section>
-      <p class="mb-3">
+      <p class="mb-4">
         This is a 32-bit Glibc port of the KISS Linux distribution to enable
         binary drivers for computers running the Intel Cedarview platform.
       </p>
       <p class="font-semibold text-lg mb-1">Key features</p>
-      <ul class="mb-3 pl-6 list-disc">
+      <ul class="mb-4 pl-6 list-disc">
         <li>Full 1080p playback through MPV and VA-API</li>
         <li>Support for software compiled with Glibc 2.24</li>
         <li>Can run DOOM</li>
       </ul>
       <p class="font-semibold text-lg mb-1">Links</p>
-      <ul class="mb-3 pl-2">
+      <ul class="pl-2">
         <li>
           <a
             href="https://github.com/arvl130/kiss32-cdv-repo/releases/tag/20200509"

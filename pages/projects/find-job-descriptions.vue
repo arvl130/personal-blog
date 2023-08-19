@@ -34,7 +34,7 @@ useHead({
       />
     </section>
     <section>
-      <p class="mb-3">
+      <p class="mb-4">
         Stop thinking about job descriptions and get them here. Try our
         <a
           target="_blank"
@@ -51,13 +51,13 @@ useHead({
         >.
       </p>
       <p class="font-semibold text-lg mb-1">Key features</p>
-      <ul class="mb-3 pl-6 list-disc">
+      <ul class="mb-4 pl-6 list-disc">
         <li>Online search</li>
         <li>REST API support</li>
         <li>Multiple apps support with API keys</li>
       </ul>
       <p class="font-semibold text-lg mb-1">Links</p>
-      <ul class="mb-3 pl-2">
+      <ul class="pl-2">
         <li>
           <a
             href="https://github.com/arvl130/job-descriptions"

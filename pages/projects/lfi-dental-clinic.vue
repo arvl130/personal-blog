@@ -32,13 +32,13 @@ useHead({
       />
     </section>
     <section>
-      <p class="mb-3">
+      <p class="mb-4">
         This is the clinic management system for LFI Dental Clinic—a dental
         clinic in Jordan Plains, Quezon City. Experience exceptional and
         affordable dental care at LFI Dental Clinic.
       </p>
       <p class="font-semibold text-lg mb-1">Key features</p>
-      <ul class="mb-3 pl-6 list-disc">
+      <ul class="mb-4 pl-6 list-disc">
         <li>Responsive frontend design</li>
         <li>Email-based sign in with verification</li>
         <li>Streamlined appointment scheduling and management</li>
@@ -47,7 +47,7 @@ useHead({
         <li>Automated reminders</li>
       </ul>
       <p class="font-semibold text-lg mb-1">Links</p>
-      <ul class="mb-3 pl-2">
+      <ul class="pl-2">
         <li>
           <a
             href="https://github.com/arvl130/nuxt-lfi-dental-clinic"
