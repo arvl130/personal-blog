@@ -14,8 +14,8 @@
           src="/assets/img/zero-point-five.jpg"
           alt="Me with some friends"
           format="webp"
-          :width="270"
-          :height="480"
+          :width="225"
+          :height="400"
         />
       </div>
       <div></div>
@@ -25,8 +25,8 @@
           src="/assets/img/me-at-the-jeepney.jpg"
           alt="Me with a laptop on a jeepney"
           format="webp"
-          :width="270"
-          :height="270"
+          :width="225"
+          :height="225"
         />
       </div>
     </div>
@@ -36,8 +36,8 @@
         src="/assets/img/qcu-programming-competition-2023.jpg"
         alt="Me and the participants of the QCU Programming Competition 2023"
         format="webp"
-        :width="840"
-        :height="270"
+        :width="700"
+        :height="225"
       />
     </div>
     <p class="text-justify">
