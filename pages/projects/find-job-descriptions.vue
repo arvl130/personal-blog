@@ -15,7 +15,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/find-job-descriptions-1.png"
         alt="The home page of Find Job Descriptions"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video mb-3"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video object-contain mb-3"
         :width="800"
         :height="450"
         background="white"
@@ -25,7 +25,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/find-job-descriptions-2.png"
         alt="The online search page of Find Job Descriptions"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video object-contain"
         :width="800"
         :height="450"
         background="white"
