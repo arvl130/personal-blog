@@ -13,7 +13,7 @@
           class="aspect-[9_/_16] w-full object-cover rounded-lg flex justify-center items-center"
           src="/assets/img/zero-point-five.jpg"
           alt="Me with some friends"
-          format="webp"
+          format="avif"
           :width="225"
           :height="400"
         />
@@ -24,7 +24,7 @@
           class="aspect-square w-full object-cover rounded-lg flex justify-center items-center"
           src="/assets/img/me-at-the-jeepney.jpg"
           alt="Me with a laptop on a jeepney"
-          format="webp"
+          format="avif"
           :width="225"
           :height="225"
         />
@@ -35,7 +35,7 @@
         class="aspect-[28_/_9] w-full object-cover rounded-lg flex justify-center items-center"
         src="/assets/img/qcu-programming-competition-2023.jpg"
         alt="Me and the participants of the QCU Programming Competition 2023"
-        format="webp"
+        format="avif"
         :width="700"
         :height="225"
       />
