@@ -1,6 +1,4 @@
 <script setup>
-import imageOne from "@/assets/img/previews/find-job-descriptions-1.png"
-import imageTwo from "@/assets/img/previews/find-job-descriptions-2.png"
 import { MoveUpRight } from "lucide-vue-next"
 
 useHead({
@@ -14,15 +12,25 @@ useHead({
         Find Job Descriptions
       </h2>
       <p class="mb-6 text-zinc-500">RESTful web service</p>
-      <img
-        :src="imageOne"
+      <NuxtImg
+        src="/assets/img/previews/find-job-descriptions-1.png"
         alt="The home page of Find Job Descriptions"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full mb-3"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
-      <img
-        :src="imageTwo"
+      <NuxtImg
+        src="/assets/img/previews/find-job-descriptions-2.png"
         alt="The online search page of Find Job Descriptions"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
     </section>
     <section>

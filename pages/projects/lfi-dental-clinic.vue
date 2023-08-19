@@ -1,6 +1,4 @@
 <script setup>
-import imageOne from "@/assets/img/previews/lfi-dental-clinic-1.png"
-import imageTwo from "@/assets/img/previews/lfi-dental-clinic-2.png"
 import { MoveUpRight } from "lucide-vue-next"
 
 useHead({
@@ -12,15 +10,25 @@ useHead({
     <section class="mb-6">
       <h2 class="text-2xl text-zinc-900 font-semibold">LFI Dental Clinic</h2>
       <p class="mb-6 text-zinc-500">Clinic management system</p>
-      <img
-        :src="imageOne"
+      <NuxtImg
+        src="/assets/img/previews/lfi-dental-clinic-1.png"
         alt="The home page for the LFI Dental Clinic website"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
-      <img
-        :src="imageTwo"
+      <NuxtImg
+        src="/assets/img/previews/lfi-dental-clinic-2.png"
         alt="The appointments scheduling page of the LFI Dental Clinic website"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full mb-3"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
     </section>
     <section>

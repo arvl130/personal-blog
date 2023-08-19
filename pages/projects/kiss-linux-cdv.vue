@@ -1,5 +1,4 @@
 <script setup>
-import previewImg from "@/assets/img/previews/kiss-linux-cdv.png"
 import { MoveUpRight } from "lucide-vue-next"
 
 useHead({
@@ -12,10 +11,15 @@ useHead({
     <section class="mb-6">
       <h2 class="text-2xl text-zinc-900 font-semibold">KISS32 Linux CDV</h2>
       <p class="mb-6 text-zinc-500">Linux distribution port</p>
-      <img
-        :src="previewImg"
+      <NuxtImg
+        src="/assets/img/previews/kiss-linux-cdv.png"
         alt="A screenshot of KISS32 Linux CDV playing full 1080p video via MPV media player"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
     </section>
     <section>

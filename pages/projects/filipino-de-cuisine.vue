@@ -1,5 +1,4 @@
 <script setup>
-import filipinoDeCuisineImg from "@/assets/img/previews/filipino-de-cuisine.png"
 import { MoveUpRight } from "lucide-vue-next"
 
 useHead({
@@ -12,10 +11,15 @@ useHead({
     <section class="mb-6">
       <h2 class="text-2xl text-zinc-900 font-semibold">Filipino de Cuisine</h2>
       <p class="mb-6 text-zinc-500">E-commerce website</p>
-      <img
-        :src="filipinoDeCuisineImg"
+      <NuxtImg
+        src="/assets/img/previews/filipino-de-cuisine.png"
         alt="The home page of the Filipino de Cuisine website"
-        class="border border-zinc-300 rounded-lg w-full aspect-video object-contain mb-3"
+        class="border border-zinc-300 rounded-lg w-full"
+        :width="800"
+        :height="450"
+        background="white"
+        fit="contain"
+        format="webp"
       />
     </section>
     <section>
