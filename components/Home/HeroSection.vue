@@ -1,9 +1,9 @@
 <template>
-  <section class="text-zinc-700 mb-8">
+  <section class="text-zinc-700 mb-10">
     <h2 class="text-2xl font-semibold mb-6 text-zinc-900">
       hello, I'm Angelo 👋
     </h2>
-    <p class="mb-3 text-justify">
+    <p class="text-justify mb-4">
       I'm a software hobbyist and student developer. I like tinkering with
       software and learning new things everyday.
     </p>
@@ -30,7 +30,7 @@
         />
       </div>
     </div>
-    <div class="mb-3">
+    <div class="mb-4">
       <NuxtImg
         class="aspect-[28_/_9] w-full object-cover rounded-lg flex justify-center items-center"
         src="/assets/img/qcu-programming-competition-2023.jpg"

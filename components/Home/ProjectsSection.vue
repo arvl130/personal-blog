@@ -1,10 +1,10 @@
 <template>
-  <section class="text-zinc-700 mb-8">
-    <p class="mb-3 text-justify">
+  <section class="text-zinc-700 mb-10">
+    <p class="text-justify mb-4">
       Linux, open-source, and web development is my passion. Here's a sneak peek
       of the things I've built over the years.
     </p>
-    <div class="mb-3 grid md:grid-cols-2 gap-3">
+    <div class="grid md:grid-cols-2 gap-3 mb-4">
       <NuxtLink
         to="/projects/lfi-dental-clinic"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
