@@ -13,7 +13,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/lfi-dental-clinic-1.png"
         alt="The home page for the LFI Dental Clinic website"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center mb-3"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video mb-3"
         :width="800"
         :height="450"
         background="white"
@@ -23,7 +23,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/lfi-dental-clinic-2.png"
         alt="The appointments scheduling page of the LFI Dental Clinic website"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video"
         :width="800"
         :height="450"
         background="white"

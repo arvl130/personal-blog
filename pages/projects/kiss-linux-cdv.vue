@@ -14,7 +14,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/kiss-linux-cdv.png"
         alt="A screenshot of KISS32 Linux CDV playing full 1080p video via MPV media player"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video"
         :width="800"
         :height="450"
         background="white"

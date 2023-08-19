@@ -14,7 +14,7 @@ useHead({
       <NuxtImg
         src="/assets/img/previews/filipino-de-cuisine.png"
         alt="The home page of the Filipino de Cuisine website"
-        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center"
+        class="border border-zinc-300 rounded-lg w-full flex justify-center items-center aspect-video"
         :width="800"
         :height="450"
         background="white"
