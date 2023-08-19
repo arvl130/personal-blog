@@ -5,8 +5,9 @@
       of the things I've built over the years.
     </p>
     <div class="grid md:grid-cols-2 gap-3 mb-4">
-      <NuxtLink
-        to="/projects/lfi-dental-clinic"
+      <a
+        target="_blank"
+        href="https://github.com/arvl130/nuxt-lfi-dental-clinic"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
@@ -23,9 +24,10 @@
           <p class="font-bold">LFI Dental Clinic</p>
           <p>Management System</p>
         </div>
-      </NuxtLink>
-      <NuxtLink
-        to="/projects/filipino-de-cuisine"
+      </a>
+      <a
+        target="_blank"
+        href="https://github.com/arvl130/filipino-de-cuisine"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
@@ -42,9 +44,10 @@
           <p class="font-bold">Filipino de Cuisine</p>
           <p>E-commerce Website</p>
         </div>
-      </NuxtLink>
-      <NuxtLink
-        to="/projects/find-job-descriptions"
+      </a>
+      <a
+        target="_blank"
+        href="https://github.com/arvl130/job-descriptions"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
@@ -61,9 +64,10 @@
           <p class="font-bold">Find Job Descriptions</p>
           <p>RESTful Web Service</p>
         </div>
-      </NuxtLink>
-      <NuxtLink
-        to="/projects/kiss-linux-cdv"
+      </a>
+      <a
+        target="_blank"
+        href="https://github.com/arvl130/kiss32-cdv-repo"
         class="grid grid-cols-[2.5rem_1fr] gap-3 bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-6 py-3 leading-5"
       >
         <div>
@@ -77,7 +81,7 @@
           <p class="font-bold">KISS32 Linux CDV</p>
           <p>Linux distribution port</p>
         </div>
-      </NuxtLink>
+      </a>
     </div>
     <p class="text-justify">
       You'll find most of my projects on

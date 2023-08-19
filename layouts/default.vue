@@ -24,17 +24,13 @@ const route = useRoute()
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink
-              to="/projects"
-              class="text-zinc-500 hover:text-zinc-900 transition duration-200 pb-1 border-b"
-              :class="{
-                'text-zinc-900': route.path === '/projects',
-                'border-zinc-300': route.path === '/projects',
-                'border-white': route.path !== '/projects',
-              }"
+            <a
+              target="_blank"
+              href="https://www.ageulin.com"
+              class="text-zinc-500 hover:text-zinc-900 transition duration-200 pb-1"
             >
-              projects
-            </NuxtLink>
+              portfolio
+            </a>
           </li>
           <li>
             <NuxtLink
