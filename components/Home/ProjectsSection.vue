@@ -14,7 +14,7 @@
             src="/assets/img/logo/lfidentalclinic.png"
             alt="Logo for LFI Dental Clinic"
             class="w-full aspect-square"
-            format="webp"
+            format="avif"
             :height="150"
             :width="150"
           />
@@ -33,7 +33,7 @@
             src="/assets/img/logo/filipinodecuisine.png"
             alt="Logo for Filipino de Cuisine"
             class="w-full aspect-square"
-            format="webp"
+            format="avif"
             :height="150"
             :width="150"
           />
@@ -52,7 +52,7 @@
             src="/assets/img/logo/find-job-desc.png"
             alt="Logo for Find Job Descriptions"
             class="w-full aspect-square"
-            format="webp"
+            format="avif"
             :height="150"
             :width="150"
           />

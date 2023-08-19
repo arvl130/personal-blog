@@ -18,7 +18,7 @@ useHead({
         :height="450"
         background="white"
         fit="contain"
-        format="webp"
+        format="avif"
       />
       <NuxtImg
         src="/assets/img/previews/lfi-dental-clinic-2.png"
@@ -28,7 +28,7 @@ useHead({
         :height="450"
         background="white"
         fit="contain"
-        format="webp"
+        format="avif"
       />
     </section>
     <section>

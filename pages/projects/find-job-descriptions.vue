@@ -20,7 +20,7 @@ useHead({
         :height="450"
         background="white"
         fit="contain"
-        format="webp"
+        format="avif"
       />
       <NuxtImg
         src="/assets/img/previews/find-job-descriptions-2.png"
@@ -30,7 +30,7 @@ useHead({
         :height="450"
         background="white"
         fit="contain"
-        format="webp"
+        format="avif"
       />
     </section>
     <section>

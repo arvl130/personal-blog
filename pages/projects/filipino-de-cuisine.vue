@@ -19,7 +19,7 @@ useHead({
         :height="450"
         background="white"
         fit="contain"
-        format="webp"
+        format="avif"
       />
     </section>
     <section>
