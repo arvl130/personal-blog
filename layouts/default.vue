@@ -62,7 +62,7 @@ const route = useRoute()
         <ul class="flex items-center gap-3 text-zinc-400">
           <li>
             <a
-              href="https://twitter.com/angelogeulin"
+              href="https://twitter.com/ageulin123"
               class="hover:text-zinc-900 transition duration-200"
               target="_blank"
               aria-label="Twitter contact link"
