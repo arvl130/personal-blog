@@ -9,7 +9,7 @@ import { Mail, Facebook, Twitter, Linkedin } from "lucide-vue-next"
     </p>
     <div class="flex gap-3">
       <a
-        href="https://www.facebook.com/angelogeulin123"
+        href="https://www.facebook.com/ageulin123"
         target="_blank"
         aria-label="Facebook contact link"
         class="bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-3 py-2 leading-5"
@@ -17,7 +17,7 @@ import { Mail, Facebook, Twitter, Linkedin } from "lucide-vue-next"
         <Facebook :stroke-width="1.5" aria-label="Facebook logo" />
       </a>
       <a
-        href="https://twitter.com/angelogeulin"
+        href="https://twitter.com/ageulin123"
         target="_blank"
         aria-label="Twitter contact link"
         class="bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-3 py-2 leading-5"
@@ -25,7 +25,7 @@ import { Mail, Facebook, Twitter, Linkedin } from "lucide-vue-next"
         <Twitter :stroke-width="1.5" aria-label="Twitter logo" />
       </a>
       <a
-        href="https://www.linkedin.com/in/angelo-geulin-350776138"
+        href="https://www.linkedin.com/in/ageulin"
         target="_blank"
         aria-label="LinkedIn contact link"
         class="bg-zinc-50 hover:bg-zinc-100 transition duration-200 rounded-md border border-zinc-300 px-3 py-2 leading-5"

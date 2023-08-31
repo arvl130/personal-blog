@@ -12,7 +12,7 @@ useHead({
     <ul class="mb-3">
       <li>
         <a
-          href="https://twitter.com/angelogeulin"
+          href="https://twitter.com/ageulin123"
           target="_blank"
           class="text-zinc-500 hover:text-zinc-900 transition duration-200 inline-flex items-center gap-2"
         >
@@ -25,7 +25,7 @@ useHead({
       </li>
       <li>
         <a
-          href="https://www.facebook.com/angelogeulin123"
+          href="https://www.facebook.com/ageulin123"
           target="_blank"
           class="text-zinc-500 hover:text-zinc-900 transition duration-200 inline-flex items-center gap-2"
         >
@@ -38,7 +38,7 @@ useHead({
       </li>
       <li>
         <a
-          href="https://www.linkedin.com/in/angelo-geulin-350776138"
+          href="https://www.linkedin.com/in/ageulin"
           target="_blank"
           class="text-zinc-500 hover:text-zinc-900 transition duration-200 inline-flex items-center gap-2"
         >
