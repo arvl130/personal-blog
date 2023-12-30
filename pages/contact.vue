@@ -51,7 +51,7 @@ useHead({
       </li>
       <li>
         <a
-          href="mailto:angelogeulin123@gmail.com"
+          href="mailto:hello@ageulin.com"
           class="text-zinc-500 hover:text-zinc-900 transition duration-200 inline-flex items-center gap-2"
         >
           <MoveUpRight
